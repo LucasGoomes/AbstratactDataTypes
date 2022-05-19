@@ -7,9 +7,7 @@ public class StackArray{
     public StackArray(){
         pilha = new Integer[10];
 
-
     }
-    //push, pop, top, clear, size,isEmpty
 
     public void clear(){//esvazia a lista
         pilha = new Integer[10];
@@ -18,7 +16,7 @@ public class StackArray{
         return topo;
     }
     public boolean isEmpty(){//retorna se a lista está vazia
-        return (topo ==0);
+        return (topo == 0);
     }
 
     public void push(Integer element){//insere na primeira posição
