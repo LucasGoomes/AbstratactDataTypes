@@ -7,6 +7,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         //ListArrayOfInteger lista = new ListArrayOfInteger();
         //LinkedListOfInteger lista2 = new LinkedListOfInteger();
+        //DoubleLinkedListOfInteger lista3 = new DoubleLinkedListOfInteger();
         //Queue fila = new Queue();
          
     }
